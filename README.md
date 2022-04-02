@@ -83,9 +83,9 @@
 <br>
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nizetech&layout=compact&theme=light&hide_border=true" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nizetech&" alt="nizetech" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nizetech&show_icons=true&include_all_commits=true&theme=light&count_private=true&hide_border=true&border_radius=2&hide=contribs" alt="Nizetech's github stats" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fortunize&layout=compact&theme=light&hide_border=true" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fortunizee&" alt="fortunize" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fortunize&show_icons=true&include_all_commits=true&theme=light&count_private=true&hide_border=true&border_radius=2&hide=contribs" alt="fortunize's github stats" /> 
 
 
 
@@ -93,7 +93,7 @@
 <br />
 
 <!--
-**Julitech/Julitech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fortunize/Fortunize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
