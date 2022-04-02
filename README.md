@@ -15,7 +15,7 @@
       alt="Nize Tech" height="30" width="40" /></a> 
     <a href="https://www.wa.me/2349072026427" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
-      alt="Julius Ewansiha" height="30" width="40" /></a> 
+      alt="Nizetech" height="30" width="40" /></a> 
   <a href="https://www.facebook.com/nizetech1" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="Nize Tech" height="30" width="40" /></a> 
@@ -24,7 +24,7 @@
       alt="Nize Tech" height="30" width="40" /></a> 
  <a href="https://twitter.com/nizetech1" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="julitech" height="30" width="40" /></a> 
+      alt="nizetech" height="30" width="40" /></a> 
 </p>
 
 <br>
@@ -83,7 +83,7 @@
 <br>
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nizetech&layout=compact&theme=light&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fortunize&layout=compact&theme=light&hide_border=true" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fortunize&" alt="fortunize" /></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fortunize&show_icons=true&include_all_commits=true&theme=light&count_private=true&hide_border=true&border_radius=2&hide=contribs" alt="fortunize's github stats" /> 
 
