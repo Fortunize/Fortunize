@@ -80,11 +80,10 @@
   
 <br>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nizetech&layout=compact&theme=light&hide_border=false" />
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nizetech&layout=compact&theme=light&hide_border=true" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fortunize&" alt="fortunize" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nizetech&" alt="fortunize" /></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nizetech&show_icons=true&include_all_commits=true&theme=light&count_private=true&hide_border=true&border_radius=2&hide=contribs" alt="fortunize's github stats" /> 
 
 
