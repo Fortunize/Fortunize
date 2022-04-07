@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/nizetech1/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Nize Tech" height="30" width="40" /></a> 
-    <a href="https://www.wa.me/2349072026427" target="blank"><img align="center"
+    <a href="https://wa.me/+2349072026425" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
       alt="Nizetech" height="30" width="40" /></a> 
   <a href="https://www.facebook.com/nizetech1" target="blank"><img align="center"
