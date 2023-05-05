@@ -1,5 +1,5 @@
 <h1>Hi there I'm Nizetech <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3>A Mobile App Developer</h3>
+<h3>A highly experienced Mobile App Developer</h3>
 
 <br>
 
