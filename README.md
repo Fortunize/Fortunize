@@ -4,7 +4,7 @@
 <br>
 
 <!-- <ul>
-  <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://flowcv.io/resume/feedback/lMhKFXfgJjf8">My Resume</a>.</li>
+  <li>🤔 <b>I’m currently open for</b>: A full time or contract job, <a href="https://flowcv.io/resume/feedback/lMhKFXfgJjf8">My Resume</a>.</li>
   <li>😄 <b>Fun fact</b>: I love Cars(🚗), Coding(💻), Reading(📖) and Gaming</li>
 </ul> -->
 
